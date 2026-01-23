@@ -12,3 +12,7 @@ postgres-data/
 node_modules/
 dist/
 build/
+# PostgreSQL / DB runtime files
+mytb-data/
+*.pid
+*.opts
